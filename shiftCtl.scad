@@ -22,6 +22,7 @@ SOFTWARE. */
 
 /* Volkswagen (VW) MK2 stick-shift (manual shift) shifter relay bushing (ball)
 Slides on over outside of well-worn OEM shifter relay ball on 1988 Jetta.
+An M3 set-screw holds it on.
  */
 
 include <BOSL2/std.scad>;
